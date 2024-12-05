@@ -1,0 +1,20 @@
+.main {
+    padding: 72px 100px;
+}
+
+.text h1 {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 64px;
+    color: #313030;
+}
+.text h1 span {
+    color: #31303081;
+}
+
+.img {
+    padding-top: 21px;
+    display: flex;
+    gap: 45px;
+}

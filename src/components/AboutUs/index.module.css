@@ -1,0 +1,52 @@
+.main {
+    background-image: url('/src/assets/img/background.png') ;
+    background-size: cover;
+    width: 100%;
+}
+
+.mainTwo {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0 ;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.b {
+    border: 1px solid #B79C10;
+    border-radius: 50%;
+    height: 127px;
+    width: 127px;
+    position: relative ;
+    text-align: center;
+    align-items: center;
+}
+.b h1 {
+    text-align: center;
+    padding: 36px 35px 23px 24px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    color: #3F4255;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.c {
+    height: 127px;
+    width: 127px;
+    border-radius: 50%;
+    background-color: #FFE145;
+    position: absolute;
+    top: 2270px;
+}
+
+.warp h2 {
+    text-align: center;
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #3F4255;
+    padding-top: 25px;
+}

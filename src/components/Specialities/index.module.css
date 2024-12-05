@@ -1,0 +1,75 @@
+.main {
+    padding: 15px 100px 72px;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    justify-content: center;
+    margin: 30px;
+    
+}
+
+.Specialities {
+    display: flex;
+    padding: 70px 100px ;
+    align-items: center;
+    justify-content: space-between;
+}
+.Specialities h1 {
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 64px;
+    font-family: "Poppins", serif;
+    color: #3F4255;
+}
+.Specialities button {
+    color: #9093A6;
+    font-family: "Martel Sans", serif;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    padding: 14px 24px;
+    background-color: #F2F4FA;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.Specialities button:hover {
+    color: #3F4255;
+    background-color: #D4D7E5;
+}
+
+.main {
+    padding-bottom: 72px;
+}
+
+.card  {
+    padding: 24px 39px 0;
+}
+
+.text {
+    padding: 16px 34px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: "Martel Sans", serif;
+    text-align: center;
+}
+
+.b {
+    border-radius: 6px;
+    align-items: center;
+    box-shadow: 0px 2px 16px 0px #3C3E4A14;
+    margin: 30px;
+}
