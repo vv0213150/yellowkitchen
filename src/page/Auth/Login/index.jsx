@@ -11,8 +11,8 @@ const Login = () => {
     }
 
     return (
-        <div className={cls.Login}>
-            <form onSubmit={handleSubmit}> 
+        <div >
+            <form className={cls.Login} onSubmit={handleSubmit}> 
                 <input 
                     placeholder="Login" 
                     type="text" 
